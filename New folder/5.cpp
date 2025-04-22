@@ -8,3 +8,5 @@ class Solution {
       return s;
       }
   };
+
+  //to lower string ....
